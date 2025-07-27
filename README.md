@@ -1,5 +1,7 @@
 # Movie ROI & Genre Performance Analysis
 
+<img src="./image/visualization_0.jpg" alt="Intro Image" width="600"/>
+
 ## Overview
 
 This project explores the financial performance of movies by analyzing production budgets, revenues, and genre combinations. Using datasets from IMDb, The Numbers (TN), and Box Office Mojo (BOM), the goal is to identify which types of films yield the highest return on investment (ROI) and what storytelling patterns dominate top-rated cinema.
@@ -106,6 +108,7 @@ A new film studio wants to make data-driven decisions when selecting which types
 ## Project Files
 
 - [Jupyter Notebook: working_notebook.ipynb](./working_notebook.ipynb)
+- [Jupyter Notebook: working_notebook.pdf](./working_notebook.pdf)
 - [Presentation Slides: presentation.pdf](./presentation.pdf)
 - [Image folder (ERD and Visualization screenshot)](image)
 - [zippedData](data/)
